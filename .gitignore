@@ -127,7 +127,7 @@ Thumbs.db
 
 # Project specific files (keep these private)
 specs.md
-# NOTES.md
+NOTES.md
 STUDY-PLAN.md
 
 # AWS credentials (never commit these)
