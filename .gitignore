@@ -141,4 +141,4 @@ aws-credentials.json
 
 # Local development
 docker-compose.override.yml
-.env.local
+.env.local.github/
